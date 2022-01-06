@@ -1,4 +1,4 @@
-# ex_listview
+# ContactApp
 
 A new Flutter project.
 
